@@ -1,0 +1,16 @@
+body {background-color: #23395d;}
+body {color: white;}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 40%;
+    width: 40%;
+    
+}
+div {
+    background-color: #333333;
+}
+div2 {
+    color: white;
+}
